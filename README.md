@@ -17,3 +17,7 @@ Python, Amazon Web Services (AWS), Apache Kafka, Glue Crawler, Glue Catalog, Ath
 - write a consumer code that will consume that data and put that data onto Amazon S3
 - run a Glue Crawler 
 - query real-time data in Amazon Athena
+
+## Architecture 
+
+![Architecture](https://github.com/ImaneBenHassine/Stock_Market_Kafka_Real_Time_Project/assets/26963240/c63774fe-fcc9-49fb-b9bc-ef8a4751fafb)
